@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0941-valid-mountain-array](https://github.com/Pratik00531/DSA/tree/master/0941-valid-mountain-array) |
 | [1920-build-array-from-permutation](https://github.com/Pratik00531/DSA/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
