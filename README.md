@@ -6,8 +6,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0941-valid-mountain-array](https://github.com/Pratik00531/DSA/tree/master/0941-valid-mountain-array) |
 | [1920-build-array-from-permutation](https://github.com/Pratik00531/DSA/tree/master/1920-build-array-from-permutation) |
+| [3379-transformed-array](https://github.com/Pratik00531/DSA/tree/master/3379-transformed-array) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Pratik00531/DSA/tree/master/1920-build-array-from-permutation) |
+| [3379-transformed-array](https://github.com/Pratik00531/DSA/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
