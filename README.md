@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Pratik00531/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [3379-transformed-array](https://github.com/Pratik00531/DSA/tree/master/3379-transformed-array) |
 | [3467-transform-array-by-parity](https://github.com/Pratik00531/DSA/tree/master/3467-transform-array-by-parity) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Pratik00531/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Simulation
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pratik00531/DSA/tree/master/2206-divide-array-into-equal-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Pratik00531/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 <!---LeetCode Topics End-->
