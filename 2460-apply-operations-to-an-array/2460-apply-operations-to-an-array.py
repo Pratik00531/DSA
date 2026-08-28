@@ -1,0 +1,20 @@
+class Solution(object):
+    def applyOperations(self, nums):
+
+        # Apply n - 1 operations
+        for i in range(len(nums) - 1):
+            if nums[i] == nums[i + 1]:
+                nums[i] *= 2
+                nums[i + 1] = 0
+
+        # Shift zeros to the end
+        result = []
+
+        for num in nums:
+            if num != 0:
+                result.append(num)
+
+        while len(result) < len(nums):
+            result.append(0)
+
+        return result
