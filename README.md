@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pratik00531/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Pratik00531/DSA/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/Pratik00531/DSA/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/Pratik00531/DSA/tree/master/0268-missing-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pratik00531/DSA/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Pratik00531/DSA/tree/master/0268-missing-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pratik00531/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 ## Bit Manipulation
