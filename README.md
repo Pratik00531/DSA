@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Pratik00531/DSA/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Pratik00531/DSA/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Pratik00531/DSA/tree/master/1920-build-array-from-permutation) |
 | [2460-apply-operations-to-an-array](https://github.com/Pratik00531/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [3379-transformed-array](https://github.com/Pratik00531/DSA/tree/master/3379-transformed-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pratik00531/DSA/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Pratik00531/DSA/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Pratik00531/DSA/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Pratik00531/DSA/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Pratik00531/DSA/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Pratik00531/DSA/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
