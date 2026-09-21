@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Pratik00531/DSA/tree/master/1920-build-array-from-permutation) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pratik00531/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/Pratik00531/DSA/tree/master/2460-apply-operations-to-an-array) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Pratik00531/DSA/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3379-transformed-array](https://github.com/Pratik00531/DSA/tree/master/3379-transformed-array) |
 | [3467-transform-array-by-parity](https://github.com/Pratik00531/DSA/tree/master/3467-transform-array-by-parity) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Pratik00531/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Pratik00531/DSA/tree/master/0383-ransom-note) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pratik00531/DSA/tree/master/2206-divide-array-into-equal-pairs) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Pratik00531/DSA/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3467-transform-array-by-parity](https://github.com/Pratik00531/DSA/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pratik00531/DSA/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Pratik00531/DSA/tree/master/0383-ransom-note) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pratik00531/DSA/tree/master/2206-divide-array-into-equal-pairs) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Pratik00531/DSA/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
