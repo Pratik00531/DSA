@@ -1,7 +1,12 @@
-class Solution(object):
+class Solution:
     def countCompleteDayPairs(self, hours):
-        """
-        :type hours: List[int]
-        :rtype: int
-        """
+        rem = defaultdict(int)
+        ans = 0
         
+        for i in hours:
+            k = (24 - i % 24) % 24
+            if k in rem:
+                ans += rem[k]
+            rem[i % 24] += 1
+        
+        return ans
