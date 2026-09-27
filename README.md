@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Pratik00531/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratik00531/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Pratik00531/DSA/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Pratik00531/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pratik00531/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Pratik00531/DSA/tree/master/0704-binary-search) |
 | [0941-valid-mountain-array](https://github.com/Pratik00531/DSA/tree/master/0941-valid-mountain-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pratik00531/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pratik00531/DSA/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/Pratik00531/DSA/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/Pratik00531/DSA/tree/master/1768-merge-strings-alternately) |
 | [2460-apply-operations-to-an-array](https://github.com/Pratik00531/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Pratik00531/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Pratik00531/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pratik00531/DSA/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Pratik00531/DSA/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/Pratik00531/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pratik00531/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Pratik00531/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Pratik00531/DSA/tree/master/0509-fibonacci-number) |
