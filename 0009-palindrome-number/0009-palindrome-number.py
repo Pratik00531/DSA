@@ -4,16 +4,5 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-        org=x
-        s=0
-        while(x>0):
-            r=x%10
-            s=s*10+r
-            x=x//10
-        if s==org:
-            return True
-        else:
-            return False
-
-        
-        
+        s=str(x)
+        return x>=0 and s==s[::-1]
