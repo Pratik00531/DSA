@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Pratik00531/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pratik00531/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pratik00531/DSA/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/Pratik00531/DSA/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/Pratik00531/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratik00531/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Pratik00531/DSA/tree/master/0136-single-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pratik00531/DSA/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Pratik00531/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Pratik00531/DSA/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Pratik00531/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Pratik00531/DSA/tree/master/0383-ransom-note) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Pratik00531/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Pratik00531/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pratik00531/DSA/tree/master/0268-missing-number) |
 | [3467-transform-array-by-parity](https://github.com/Pratik00531/DSA/tree/master/3467-transform-array-by-parity) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pratik00531/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Pratik00531/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Pratik00531/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pratik00531/DSA/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Pratik00531/DSA/tree/master/0383-ransom-note) |
