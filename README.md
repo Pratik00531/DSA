@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Pratik00531/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratik00531/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Pratik00531/DSA/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pratik00531/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Pratik00531/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pratik00531/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Pratik00531/DSA/tree/master/0704-binary-search) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pratik00531/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pratik00531/DSA/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pratik00531/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Pratik00531/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Pratik00531/DSA/tree/master/0704-binary-search) |
 ## Recursion
