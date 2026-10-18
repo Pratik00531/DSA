@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pratik00531/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Pratik00531/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pratik00531/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Pratik00531/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Pratik00531/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Pratik00531/DSA/tree/master/0875-koko-eating-bananas) |
 | [0941-valid-mountain-array](https://github.com/Pratik00531/DSA/tree/master/0941-valid-mountain-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Pratik00531/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Pratik00531/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Pratik00531/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Pratik00531/DSA/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/Pratik00531/DSA/tree/master/1768-merge-strings-alternately) |
 | [2460-apply-operations-to-an-array](https://github.com/Pratik00531/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Pratik00531/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
