@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Pratik00531/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pratik00531/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Pratik00531/DSA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Pratik00531/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pratik00531/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pratik00531/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Pratik00531/DSA/tree/master/0485-max-consecutive-ones) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Pratik00531/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Pratik00531/DSA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Pratik00531/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pratik00531/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pratik00531/DSA/tree/master/0268-missing-number) |
 | [3467-transform-array-by-parity](https://github.com/Pratik00531/DSA/tree/master/3467-transform-array-by-parity) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pratik00531/DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Pratik00531/DSA/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Pratik00531/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pratik00531/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pratik00531/DSA/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Pratik00531/DSA/tree/master/0383-ransom-note) |
