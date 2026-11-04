@@ -1,13 +1,7 @@
 class Solution(object):
     def sortColors(self, nums):
-        low, mid, high = 0, 0, len(nums) - 1
-        while mid <= high:
-            if nums[mid] == 0:
-                nums[low], nums[mid] = nums[mid], nums[low]
-                low += 1
-                mid += 1
-            elif nums[mid] == 1:
-                mid += 1
-            else:
-                nums[mid], nums[high] = nums[high], nums[mid]
-                high -= 1   
+        count0 = nums.count(0)
+        count1 = nums.count(1)
+        count2 = nums.count(2)
+
+        nums[:] = [0]*count0 + [1]*count1 + [2]*count2
