@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratik00531/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Pratik00531/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pratik00531/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Pratik00531/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pratik00531/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Pratik00531/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pratik00531/DSA/tree/master/0268-missing-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Pratik00531/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Pratik00531/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pratik00531/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Pratik00531/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pratik00531/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pratik00531/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pratik00531/DSA/tree/master/0268-missing-number) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pratik00531/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Pratik00531/DSA/tree/master/0383-ransom-note) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pratik00531/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Pratik00531/DSA/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pratik00531/DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Pratik00531/DSA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Pratik00531/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pratik00531/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pratik00531/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pratik00531/DSA/tree/master/0268-missing-number) |
@@ -158,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Pratik00531/DSA/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pratik00531/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pratik00531/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
