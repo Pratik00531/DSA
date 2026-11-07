@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pratik00531/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pratik00531/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Pratik00531/DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Pratik00531/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Pratik00531/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Pratik00531/DSA/tree/master/0875-koko-eating-bananas) |
 | [0941-valid-mountain-array](https://github.com/Pratik00531/DSA/tree/master/0941-valid-mountain-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pratik00531/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pratik00531/DSA/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Pratik00531/DSA/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/Pratik00531/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pratik00531/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pratik00531/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Pratik00531/DSA/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pratik00531/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Pratik00531/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
