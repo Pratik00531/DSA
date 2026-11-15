@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Pratik00531/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Pratik00531/DSA/tree/master/0875-koko-eating-bananas) |
 | [0941-valid-mountain-array](https://github.com/Pratik00531/DSA/tree/master/0941-valid-mountain-array) |
+| [1002-find-common-characters](https://github.com/Pratik00531/DSA/tree/master/1002-find-common-characters) |
 | [1920-build-array-from-permutation](https://github.com/Pratik00531/DSA/tree/master/1920-build-array-from-permutation) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pratik00531/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/Pratik00531/DSA/tree/master/2460-apply-operations-to-an-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pratik00531/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Pratik00531/DSA/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Pratik00531/DSA/tree/master/0412-fizz-buzz) |
+| [1002-find-common-characters](https://github.com/Pratik00531/DSA/tree/master/1002-find-common-characters) |
 | [1768-merge-strings-alternately](https://github.com/Pratik00531/DSA/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pratik00531/DSA/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Pratik00531/DSA/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Pratik00531/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1002-find-common-characters](https://github.com/Pratik00531/DSA/tree/master/1002-find-common-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Pratik00531/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pratik00531/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Pratik00531/DSA/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
